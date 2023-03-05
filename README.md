@@ -1,9 +1,9 @@
 # Hackathon-2023
 
 # demo
-<img src="images/demo/1.png"  width="800" height="450">
-<img src="images/demo/2.png"  width="800" height="450">
-<img src="images/demo/3.png"  width="800" height="450">
+<img src="images/demo/1.png"  width="800" height="470">
+<img src="images/demo/2.png"  width="800" height="470">
+<img src="images/demo/3.png"  width="800" height="470">
 
 # Insperations
 - 100% Orange Juice
